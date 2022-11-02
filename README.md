@@ -19,7 +19,7 @@ Sqflite package extension to add some ORM abilities. From Sqlite/Sqflite fan, wi
 
 ## Motivation
 
-Sqflite (https://pub.dev/packages/sqflite) is a cool and powerful sqlite package
+Sqflite (https://pub.dev/packages/sqflite_sqlcipher) is a cool and powerful sqflite_sqlcipher package
 that supports a lot of stuff, including:
 
 * Support transactions and batches

@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:path/path.dart';
-import 'package:sqflite/sqflite.dart';
+import 'package:sqflite_sqlcipher/sqflite.dart';
 import 'package:sqflite_entities/src/sql_adapter.dart';
 
 typedef DatabaseFilePathFactory = String Function();

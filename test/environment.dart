@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:sqflite/sqflite_dev.dart';
+import 'package:sqflite_sqlcipher/sqflite_dev.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'package:sqflite_entities/sqflite_entities.dart';
 

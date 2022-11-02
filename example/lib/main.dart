@@ -3,7 +3,7 @@ import 'package:example/models/profile_entity.dart';
 import 'package:example/sqlite/application_db_engine.dart';
 import 'package:example/sqlite/sqlite_codec.dart';
 import 'package:flutter/material.dart';
-import 'package:sqflite/sqflite.dart';
+import 'package:sqflite_sqlcipher/sqflite.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
